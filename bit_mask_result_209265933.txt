@@ -1,0 +1,1 @@
+{"Binary Mask Input": "1111111111", "Decimal Input": 255, "Input in Binary": "0011111111", "Left Part (Binary)": "0011111111", "Right Part (Binary)": "", "Result in Decimal": [255, 0]}
